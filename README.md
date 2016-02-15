@@ -3,7 +3,7 @@
 ## How does it work?
 The function will return true if a given String is palindrom.
 
-###What does palindrom mean?
+##### What does palindrom mean?
 
 https://de.wikipedia.org/wiki/Palindrom
 
