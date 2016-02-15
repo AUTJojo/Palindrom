@@ -7,7 +7,7 @@ The function will return true if a given String is palindrom.
 
 https://de.wikipedia.org/wiki/Palindrom
 
-#### Example:
+##### Example:
 
 ```
 boolean rekursion(String s) {
